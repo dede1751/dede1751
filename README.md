@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="350"/></p>
 
-I am a CS student from Italy 🇮🇹
+I am Andrea, a CS student from Italy 🇮🇹
 
 - 🌱 I'm studying Engineering of Computing Systems at Politecnico di Milano.
 - ⚡ Learning about Chess programming in my spare time.
