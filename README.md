@@ -1,7 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400"/></p>
 
-### :man_technologist: &nbsp;About Me :
-
 I am a CS student from Italy 🇮🇹
 
 - 🌱 I'm studying Engineering of Computing Systems at Politecnico di Milano.
@@ -10,9 +8,7 @@ I am a CS student from Italy 🇮🇹
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
