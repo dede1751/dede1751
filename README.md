@@ -24,10 +24,3 @@ I am a CS student from Italy 🇮🇹
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede1751&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dede1751&theme=dark&background=000000)](https://git.io/streak-stats)
