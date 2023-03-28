@@ -4,7 +4,7 @@ I am Andrea, a CS student from Italy 🇮🇹
 
 - 🌱 I'm studying Engineering of Computing Systems at Politecnico di Milano.
 - ⚡ Learning about Chess programming in my spare time.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrea-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-sgobbi-14654417a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrea-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-sgobbi-14654417a/) <p align="right"> <img src="https://komarev.com/ghpvc/?username=dede1751&label=Profile%20views&color=0e75b6&style=flat" alt="dede1751" /> </p>
 
 ---
 
