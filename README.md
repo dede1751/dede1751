@@ -1,8 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="350"/></p>
 
-I am Andrea, a CS student from Italy 🇮🇹
+I'm Andrea, a CS student from Italy 🇮🇹
 
-- 🌱 I'm studying Engineering of Computing Systems at Politecnico di Milano.
+- 🌱 I'm studying Computer Science at ETH Zürich.
 - ⚡ Learning about Chess programming in my spare time.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-andrea-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-sgobbi-14654417a/) <p align="right"> <img src="https://komarev.com/ghpvc/?username=dede1751&label=Profile%20views&color=0e75b6&style=flat" alt="dede1751" /> </p>
 
@@ -11,6 +11,7 @@ I am Andrea, a CS student from Italy 🇮🇹
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
